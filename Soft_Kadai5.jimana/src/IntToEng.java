@@ -26,6 +26,7 @@ public class IntToEng {
     	   case 8: no = "eight"; break;
     	   case 9: no = "nine"; break;
     	   case 10: no = "ten"; break;
+    	   
     	  }
     	  return no;
       
